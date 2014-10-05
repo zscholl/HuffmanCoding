@@ -18,7 +18,7 @@ import java.nio.charset.Charset;
  * file. Using the c modifier in the command line. It also decompresses a file
  * provided the huffman code table using the d modifier. During compression it 
  * also outputs an appropriate huffman code table.
- * @author Aditya
+ * @author zak scholl
  * 
  */
 public class Huffman {
